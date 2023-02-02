@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "https://.github.io/csb-vixdnb/static/css/main.c83c1761.chunk.css",
-    "main.js": "https://.github.io/csb-vixdnb/static/js/main.14c5d99d.chunk.js",
-    "main.js.map": "https://.github.io/csb-vixdnb/static/js/main.14c5d99d.chunk.js.map",
-    "runtime-main.js": "https://.github.io/csb-vixdnb/static/js/runtime-main.71a95062.js",
-    "runtime-main.js.map": "https://.github.io/csb-vixdnb/static/js/runtime-main.71a95062.js.map",
-    "static/js/2.6191b69b.chunk.js": "https://.github.io/csb-vixdnb/static/js/2.6191b69b.chunk.js",
-    "static/js/2.6191b69b.chunk.js.map": "https://.github.io/csb-vixdnb/static/js/2.6191b69b.chunk.js.map",
-    "index.html": "https://.github.io/csb-vixdnb/index.html",
-    "static/css/main.c83c1761.chunk.css.map": "https://.github.io/csb-vixdnb/static/css/main.c83c1761.chunk.css.map",
-    "static/js/2.6191b69b.chunk.js.LICENSE.txt": "https://.github.io/csb-vixdnb/static/js/2.6191b69b.chunk.js.LICENSE.txt",
-    "static/media/styles.css": "https://.github.io/csb-vixdnb/static/media/bg.7213acd9.jpg",
-    "static/media/logo.1a3d5c1d.png": "https://.github.io/csb-vixdnb/static/media/logo.1a3d5c1d.png"
+    "main.css": "https://jphein.github.io/csb-vixdnb/static/css/main.17a0d7b7.chunk.css",
+    "main.js": "https://jphein.github.io/csb-vixdnb/static/js/main.5f9b0d5d.chunk.js",
+    "main.js.map": "https://jphein.github.io/csb-vixdnb/static/js/main.5f9b0d5d.chunk.js.map",
+    "runtime-main.js": "https://jphein.github.io/csb-vixdnb/static/js/runtime-main.fd13944b.js",
+    "runtime-main.js.map": "https://jphein.github.io/csb-vixdnb/static/js/runtime-main.fd13944b.js.map",
+    "static/js/2.2da7387f.chunk.js": "https://jphein.github.io/csb-vixdnb/static/js/2.2da7387f.chunk.js",
+    "static/js/2.2da7387f.chunk.js.map": "https://jphein.github.io/csb-vixdnb/static/js/2.2da7387f.chunk.js.map",
+    "index.html": "https://jphein.github.io/csb-vixdnb/index.html",
+    "static/css/main.17a0d7b7.chunk.css.map": "https://jphein.github.io/csb-vixdnb/static/css/main.17a0d7b7.chunk.css.map",
+    "static/js/2.2da7387f.chunk.js.LICENSE.txt": "https://jphein.github.io/csb-vixdnb/static/js/2.2da7387f.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "https://jphein.github.io/csb-vixdnb/static/media/bg.7213acd9.jpg",
+    "static/media/logo.1a3d5c1d.png": "https://jphein.github.io/csb-vixdnb/static/media/logo.1a3d5c1d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.71a95062.js",
-    "static/js/2.6191b69b.chunk.js",
-    "static/css/main.c83c1761.chunk.css",
-    "static/js/main.14c5d99d.chunk.js"
+    "static/js/runtime-main.fd13944b.js",
+    "static/js/2.2da7387f.chunk.js",
+    "static/css/main.17a0d7b7.chunk.css",
+    "static/js/main.5f9b0d5d.chunk.js"
   ]
 }
